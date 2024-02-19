@@ -1,0 +1,109 @@
+body{
+    background: url(bg.avif);
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+head{
+    margin-top: fixed;
+}
+#header{
+    background-color: rgb(99, 50, 50);
+    height: 3cm;
+    text-align: center;
+}
+#About{
+    color: burlywood;
+    background-color: transparent;
+    font: bold;
+    height: 3cm;
+    width: 4cm;
+    font-size: xx-large;
+font-style: bold;
+cursor: pointer;
+    }
+#exp{
+    color: burlywood;
+    background-color: transparent;
+    font: bold;
+    font-style: bold;
+    height: 3cm;
+    width: 6cm;
+    font-size: xx-large;
+    cursor: pointer;
+}
+#SER{
+    color: burlywood;
+    background-color: transparent;
+    font: bold;
+    font-style: bold;
+    height: 3cm;
+    width: 6cm;
+    font-size: xx-large;
+    cursor: pointer;
+    
+}
+#rEV{
+    color: burlywood;
+    background-color: transparent;
+    font: bold;
+    font-style: bold;
+    height: 3cm;
+    width: 6cm;
+    font-size: xx-large;
+    cursor: pointer;
+}
+#contact{
+    color: burlywood;
+    background-color: transparent;
+    font: bold;
+    font-style: bold;
+    height: 3cm;
+    width: 6cm;
+    font-size: xx-large;
+    cursor: pointer;
+}
+#con{
+    color: brown;
+    font: bold;
+    font-style: italic;
+    font-size: 2cm;
+    text-align: center;
+}
+
+#name{
+    color: brown;
+    text-align: center;
+    font-size: 3cm;
+    float:right;
+}
+#pro{
+    height: 500px;
+    width: 500px;
+    border-radius: 75px;
+}
+#cont{
+    color: brown;
+    text-align: center;
+    font-size: 3cm;
+}
+#yt{
+    border-radius: 180px;
+    height: 100px;
+    width: 100px;
+}
+#instagram{
+    border-radius: 180px;
+    height: 100px;
+    width: 100px;
+}
+section{
+    text-align: center;
+}
+#no{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 1cm;
+    font-style: italic;
+}
